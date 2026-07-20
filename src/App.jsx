@@ -5,11 +5,11 @@ import Footer from "./components/layout/Footer";
 
 import Home from "./pages/Home/Home";
 import About from "./pages/About/About";
-import Skills from "./pages/skills/skills.jsx";
 import Projects from "./pages/projects/projects.jsx";
 import Certificates from "./pages/certificates/certificates.jsx";
 import Contact from "./pages/contact/contact.jsx";
-import Services from "./pages/services/Services.jsx";
+import Skills from "./pages/Skills/Skills.jsx";
+import Services from "./pages/services/services.jsx";
 
 function App() {
   return (
